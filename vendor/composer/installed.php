@@ -1,20 +1,20 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
+        'name' => 'nocs/obatala',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'd88e8fb3ea2595e192b1bb5e8ea20df57581b8c0',
-        'type' => 'library',
+        'reference' => '842cceb5c6c8c9947588dbd38584e1a713bd2ac3',
+        'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'nocs/obatala' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'd88e8fb3ea2595e192b1bb5e8ea20df57581b8c0',
-            'type' => 'library',
+            'reference' => '842cceb5c6c8c9947588dbd38584e1a713bd2ac3',
+            'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
